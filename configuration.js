@@ -4,7 +4,7 @@ const config = {
     EN: {
       short: `Jim Sion is a young social scientist working on agri-food changes in Reunion island, 
       currently a Université Paris Cité PhD student. He is affiliated to the <a href="https://umr-lisis.fr/membre/jim-sion/" target="_blank">Laboratoire Interdisciplinaire Sciences Innovations Sociétés (LISIS)</a>, and to
-      the <a href="https://www.ceped.org/fr/membres/Doctorants-77/article/sion-jim" target="_blank">>Centre Population et Développement (CEPED). `,
+      the <a href="https://www.ceped.org/fr/membres/Doctorants-77/article/sion-jim" target="_blank">Centre Population et Développement (CEPED). `,
       long: "",
     },
     FR: {
