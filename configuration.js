@@ -24,4 +24,5 @@ const config = {
       url: "https://www.linkedin.com/in/jim-sion7860974/",
     },
   ],
+  email: { name: "jim.sion", domain: "u-paris.fr" },
 };
