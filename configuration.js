@@ -2,51 +2,26 @@ const config = {
   name: "Guillaume Levrier",
   description: {
     EN: {
-      short: `Guillaume Levrier is a political scientist working on biotechnology, currently a CNRS postdoc for the
-        <a href="https://cordis.europa.eu/project/id/951393" target="_blank">Nanobubbles ERC grant</a>. He is affiliated
-        to the <a href="http://umr-lisis.fr/membre/guillaume-levrier/" target="_blank">Laboratoire Interdisciplinaire
-          Sciences Innovations Sociétés (LISIS)</a>, and is a research associate to <a
-            href="https://www.sciencespo.fr/cevipof/en/researcher/guillaume-levrier.html"
-            target="_blank">CEVIPOF (Sciences Po)</a> and to the French National Library (BnF). `,
+      short: `Jim Sion is a young social scientist working on agri-food changes in Reunion island, 
+      currently a Université Paris Cité PhD student. He is affiliated to the <a href="https://umr-lisis.fr/membre/jim-sion/" target=">
+      Laboratoire Interdisciplinaire Sciences Innovations Sociétés (LISIS)</a>, and to
+      the <a href="https://www.ceped.org/fr/membres/Doctorants-77/article/sion-jim" target=">Centre Population et Développement (CEPED). `,
       long: "",
     },
     FR: {
-      short: `Guillaume Levrier est un chercheur en sciences
-        politiques
-        spécialisé sur les biotechnologies, actuellement postdoc CNRS pour le <a
-          href="https://cordis.europa.eu/project/id/951393" target="_blank">projet
-          ERC Nanobubbles</a>. Il est affilié au <a
-            href="http://umr-lisis.fr/membre/guillaume-levrier/"
-            target="_blank">Laboratoire Interdisciplinaire
-          Sciences
-          Innovations Sociétés (LISIS)</a>, est associé au <a
-            href="https://www.sciencespo.fr/cevipof/fr/chercheur/guillaume-levrier.html"
-            target="_blank">CEVIPOF (Sciences Po)</a> et à la Bibliothèque nationale de
-        France (BnF).`,
+      short: `Jim Sion est un jeune chercheur en sciences sociales spécialisé sur les transformations agri-alimentaires à La Réunion,
+      actuellement doctorant à l'Université Paris Cité. 
+     Il est affilié au <a href="https://umr-lisis.fr/membre/jim-sion/" target=">
+      Laboratoire Interdisciplinaire Sciences Innovations Sociétés (LISIS)</a>, 
+      et au <a href="https://www.ceped.org/fr/membres/Doctorants-77/article/sion-jim" target=">Centre Population et Développement (CEPED). `,
       long: "",
     },
   },
   links: [
     {
-      label: "twitter",
-      value: "@g_levrier",
-      url: "https://twitter.com/g_levrier",
-    },
-    {
-      label: "google scholar",
-      value: "profile",
-      url: "https://scholar.google.com/citations?user=IRiJFNMAAAAJ&hl=en",
-    },
-    {
-      label: "pubpeer",
-      value: "profile",
-      url: "https://pubpeer.com/search?q=guillaume+levrier",
-    },
-    {
       label: "linked in",
       value: "profile",
-      url: "https://www.linkedin.com/in/guillaume-levrier-phd-89156838/",
+      url: "https://www.linkedin.com/in/jim-sion7860974/",
     },
   ],
-  email: { name: "guillaume.levrier", domain: "politique.science" },
 };
