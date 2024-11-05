@@ -1,5 +1,5 @@
 const config = {
-  name: "Guillaume Levrier",
+  name: "Jim Sion",
   description: {
     EN: {
       short: `Jim Sion is a young social scientist working on agri-food changes in Reunion island, 
